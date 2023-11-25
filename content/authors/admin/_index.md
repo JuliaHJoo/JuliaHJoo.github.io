@@ -1,91 +1,61 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Julia Joo
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Julia
+last_name: Joo
 
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MD/MPH student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Cleveland Clinic Lerner College of Medicine
+    url: https://my.clevelandclinic.org/lerner-college-medicine
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm an MD/MPH student at the Cleveland Clinic Lerner College of Medicine interested in ophthalmology 👁️ 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Glaucoma
+  - Optic Neuritis
+  - Diabetic Retinopathy
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Doctor of Medicine (MD)
+      institution: Cleveland Clinic Lerner College of Medicine
+      year: 2020 - Present
+    - course: Master in Public Health (MPH)
+      institution: Case Western Reserve University School of Medicine
+      year: 2020 - Present
+    - course: Bachelor of Science (BS)
+      institution: University of Washington
+      year: 2014 - 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R
         description: ''
         percent: 80
-        icon: python
+        icon: r-project
         icon_pack: fab
-      - name: Data Science
+      - name: Statistics
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 90
+        icon: chart-line-up
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
-
+  
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -96,29 +66,33 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/JuliaJoo4
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar-google-com.ccmain.ohionet.org/citations?user=NzK2dsAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/JuliaHJoo
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/julia-joo-9b2499296/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: 2023 Julia Joo CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an M4 at the Cleveland Clinic Lerner College of Medicine (CCLCM), an MD program with a particular emphasis on training physician-scientists. I am interested in pursuing ophthalmology, which a particular interest in the ocular manifestations of neurodegeneration, such as optic neuritis and glaucoma. I am fascinated by research questions in both the basic science/translational and clinical research realms and have been involved in a broad spectrum of projects throughout my training.
+
+I am also passionate about using my platform and resources as a medical student to address the health disparities in the Greater Cleveland area. As the Student Lead of the Service Learning & Community Outreach action group at CCLCM, I helped start a student-run health clinic at the Haven Home, a temporary housing shelter for women and children experiencing homelessness, as well as a comprehensive health curriculum for students grades 6-8 at a local elementary school. Both projects have continued to fluorish and expand over the past two years!
+
+In my spare time, I enjoy traveling to national parks, singing, and exploring food spots around Cleveland!
 {style="text-align: justify;"}
