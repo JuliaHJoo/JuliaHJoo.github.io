@@ -1,4 +1,10 @@
 ---
+
+design:
+  background:
+    image:
+      filename: ''
+
 # Display name
 title: Julia H Joo
 
