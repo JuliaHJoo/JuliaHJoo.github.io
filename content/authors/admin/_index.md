@@ -6,7 +6,7 @@ design:
       filename: ''
 
 # Display name
-title: Julia H Joo
+title: Julia Joo
 
 # Full name (for SEO)
 first_name: Julia
@@ -79,9 +79,6 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar-google-com.ccmain.ohionet.org/citations?user=NzK2dsAAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/JuliaHJoo
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/julia-joo-9b2499296/
