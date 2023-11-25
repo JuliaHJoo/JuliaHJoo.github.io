@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Julia Joo
+title: Julia H Joo
 
 # Full name (for SEO)
 first_name: Julia
