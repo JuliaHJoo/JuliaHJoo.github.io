@@ -50,6 +50,8 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
+    design:
+      columns: '2'
     items:
       - name: R
         description: ''
@@ -59,7 +61,7 @@ skills:
       - name: Statistics
         description: ''
         percent: 90
-        icon: chart-line-up
+        icon: chart-line
         icon_pack: fas
   
 # Social/Academic Networking
