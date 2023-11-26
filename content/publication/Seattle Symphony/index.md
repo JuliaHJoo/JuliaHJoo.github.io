@@ -1,5 +1,5 @@
 ---
-title: 'Seattle Symphony Chorus'
+title: 'Seattle Symphony Chorale'
 authors:
   - admin
 
@@ -23,7 +23,7 @@ publication_types: ['paper-conference']
 publication: Seattle Symphony # In *Hugo Blox Builder Conference*
 publication_short: ''
 
-abstract: After graduating from the University of Washington, I joined the Seattle Symphony Chorus as a Soprano from 2018-2020. We performed a range of wonderful masterworks with the Seattle Symphony, from Handel's Messiah, Bach Mass in B Minor, and Beethoven's Symphony No. 9. 
+abstract: After graduating from the University of Washington, I joined the Seattle Symphony Chorale as a Soprano from 2018-2020. We performed a range of wonderful masterworks with the Seattle Symphony, from Handel's Messiah, Bach Mass in B Minor, and Beethoven's Symphony No. 9. 
 
 summary: After graduating undergrad, I sang Soprano in the Seattle Symphony Chorale, an auditioned choir in the Seattle region. We performed all concerts alongside the Seattle Symphony in Benroya Hall.
 
