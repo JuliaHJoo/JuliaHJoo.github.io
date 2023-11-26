@@ -201,12 +201,9 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: featured
     content:
       title: Featured Pubs
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
