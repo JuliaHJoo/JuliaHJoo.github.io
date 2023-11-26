@@ -49,7 +49,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '1'
+      columns: '2'
   - block: experience
     content:
       title: Experience
@@ -171,8 +171,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Ophthalmology
+          tag: Ophthalmology
         - name: Hematology & Oncology
           tag: Hematology & Oncology
     design:
