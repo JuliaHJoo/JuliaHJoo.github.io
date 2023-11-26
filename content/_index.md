@@ -157,7 +157,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Publications
       filters:
         folders:
           - project
@@ -192,7 +192,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Music
+      title: Singing
       filters:
         folders:
           - publication
