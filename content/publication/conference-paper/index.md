@@ -22,12 +22,9 @@ publication_types: ['paper-conference']
 # Publication name and optional abbreviated publication name.
 publication: University of Washington # In *Hugo Blox Builder Conference*
 #publication_short: 
-
 abstract: The Uni­ver­sity of Wash­ing­ton Chorale is an audi­tioned advanced under­grad­u­ate ensem­ble of music and non-music majors from the Seat­tle cam­pus. UW Chorale appears annually as a guest ensem­ble with the Seat­tle Sym­phony, and has sung in joint con­certs with Revalia Male Cham­ber Choir in Esto­nia, and for the Princess of Swe­den. I sang in the Soprano section between 2016-2018.
 
 During my time with the UW Chorale, we toured in New York City. This included an opportunity to perform at Carnegie Hall, where I had a solo for the piece 'River' by Joan Szymko. We performed masterworks such as Verdi's Requiem and were prominently featured in the Holiday POPS concerts with the Seattle Symphony every December.
-
-# Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
