@@ -192,7 +192,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Media
       filters:
         folders:
           - publication
@@ -202,7 +202,17 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Featured Pubs
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+    - block: collection
+    content:
+      title: Oral Presentations & Posters
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).

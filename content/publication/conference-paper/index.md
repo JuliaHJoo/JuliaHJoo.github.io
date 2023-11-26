@@ -1,19 +1,19 @@
 ---
-title: 'An example conference paper'
+title: 'University of Washington Chorale'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
-  - admin
-  - Robert Ford
+# authors:
+#  - admin
+#- Aleksandra Rachitskaya, MD
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+#  - ''
+#  - 'presenter, PI'
 
-date: '2013-07-01T00:00:00Z'
+date: '2016-2018'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,13 +25,15 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+#publication: In *Hugo Blox Builder Conference*
+#publication_short: 
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The Uni­ver­sity of Wash­ing­ton Chorale is an audi­tioned advanced under­grad­u­ate ensem­ble of music and non-music majors from the Seat­tle cam­pus. UW Chorale appears annually as a guest ensem­ble with the Seat­tle Sym­phony, and has sung in joint con­certs with Revalia Male Cham­ber Choir in Esto­nia, and for the Princess of Swe­den. I sang in the Soprano section between 2016-2018.
+
+During my time with the UW Chorale, we toured in New York City. This included an opportunity to perform at Carnegie Hall, where I had a solo for the piece 'River' by Joan Szymko. We performed masterworks such as Verdi's Requiem.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -39,23 +41,23 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: University Chorale website
+   url: https://music.washington.edu/ensembles/university-chorale
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+#url_pdf: ''
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'University of Washington Chorale'
   focal_point: ''
   preview_only: false
 
