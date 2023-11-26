@@ -34,8 +34,6 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: Seattle Symphony Chorale
-   url: https://www.seattlesymphony.org/en/about/meetthemusicians/theorchestra/artists/musical-group/seattle-symphony-chorale
 
 url_pdf: ''
 url_code: ''
@@ -49,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Seattle Symphony and Chorale performing at Benaroya Hall'
+  caption: 'Singing the national anthem for Seattle Reign FC'
   focal_point: ''
   preview_only: false
 
