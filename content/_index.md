@@ -201,17 +201,6 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: featured
-    content:
-      title: Featured Pubs
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-    - block: collection
     content:
       title: Oral Presentations & Posters
       text: |-
