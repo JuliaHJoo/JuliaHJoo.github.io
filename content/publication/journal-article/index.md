@@ -1,40 +1,39 @@
 ---
-title: "An example journal article"
+title: "GLP-1 Receptor Agonists and Progression of DR"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Neha Sharma, Jacqueline Shaia, ..., Aleksandra Rachitskaya
+date: "2023-11-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-11-04T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "American Academy of Ophthalmology"
+publication_short: "AAO"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: *Purpose* To compare diabetic retinopathy (DR) progression in patients on GLP-1 receptor agonists (GLP-1RA) to those on SGLT-2 inhibitors (SGLT-2I) given prior reports of paradoxical “early worsening” of DR associated with GLP-1RA. <br> <br> *Methods* Patients seen at a tertiary referral center on GLP-1RA or SGLT-2I from 2012 to 2023 were included. A multivariable logistic regression model evaluated the odds of DR worsening, defined by ICD-10 code changes, between the drugs.  <br> <br> *Results* Among 1,191 patients on GLP-1RA and SGLT-2I, the only difference in baseline characteristics, including age, HbA1C, and DR severity, was higher BMI in GLP-1RA users (37kg/m2 vs 34 kg/m2, p<0.001). There was no difference in DR worsening between GLP-1RA vs SGLT-2I users (OR=1.50, 95% CI 0.81-2.91, p=0.2). The most frequent events were development of any DR from baseline no DR (37% of worsening events), vitreous hemorrhage or retinal detachment development from baseline proliferative DR (PDR) (22%), and progression to PDR (21%). No difference between the drugs was observed in these events (p>0.05).  <br> <br> *Conclusion* In our study, DR worsening was not associated with GLP-1RA compared to SGLT-2I. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We found no association between GLP-1RA and DR in our single-center study.
 
 tags:
-- Source Themes
+- Diabetic Retinopathy
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+ links:
+ - name: Retina Round Up
+  url: https://retinaroundup.com/2023/11/07/aao-2023-effect-of-glp-1-receptor-agonists-on-diabetic-retinopathy/
+ - name: HCP Live
+ url: https://www.hcplive.com/view/aleksandra-rachitskaya-md-effect-glp-1-agonists-diabetic-retinopathy
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -61,15 +60,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
