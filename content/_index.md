@@ -174,7 +174,7 @@ sections:
         - name: Deep Learning
           tag: Deep Learning
         - name: Hematology & Oncology
-          tag: HemOnc
+          tag: Hematology & Oncology
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
